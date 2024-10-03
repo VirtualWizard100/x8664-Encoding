@@ -1,6 +1,6 @@
 global _start
 
-;REX = Register Entend
+;REX = Register Extend
 
 section .text
 _start:
