@@ -1,5 +1,7 @@
 global _start
 
+;REX = Register Entend
+
 section .text
 _start:
 	add rax, 0x100 	;05 00 01 00 00 (05 = add) (eax is implied) (00000100 = 256)
